@@ -18,9 +18,13 @@ Backend: https://github.com/Felipe-Monte/felipe-backend-food
 ### Como funciona ? 
 * Fazer login e criar uma conta como usuário normal (nome@email.com)
 
-* Fezer login como **ADMINISTRADOR** use isso: 
-    - admin@email.com
-    - admin123
+* Fazer login usuario comun:
+ login - teste@email.com
+ senha - 123456
+
+* Fazer login como **ADMINISTRADOR** use isso: 
+  login - admin@email.com
+  senha - admin123
 
 * **Espere um pouco para cadastrar as vezes demorar devido ao backend gratuito !!**
 * **tente novamente e consiguirá logar...**
